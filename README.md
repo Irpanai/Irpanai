@@ -1,25 +1,17 @@
-### Hi there 👋, This is Muhammad Irfan Akbar
+# Hi there, This is Muhammad Irfan Akbar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-[![Gmail Badge](https://img.shields.io/badge/-rajk3770@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rajk3770@gmail.com)](mailto:rajk3770@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-rajk3770-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajk3770/)](https://www.linkedin.com/in/rajk3770/) [![Github Badge](https://img.shields.io/badge/-rajk3770-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rajk3770/)](https://www.github.com/rajk3770/) [![Twitter Badge](https://img.shields.io/badge/-rajk3770-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rajk3770/)](https://www.twitter.com/rajk3770/) <p align='left'>I am currently a graduate student at Georgia Tech purusing my Master's degree in Computer Science with specialization in Computing Systems.
+[![Gmail Badge](https://img.shields.io/badge/-muhammadirfnak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:muhammadirfnak@gmail.com)](mailto:muhammadirfnak@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/-Irpanai-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Irpanai/)](https://www.github.com/Irpanai/) 
+[![Instagram Badge](https://img.shields.io/badge/-irpanai_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/irpanai_/)](https://www.instagram.com/irpanai_/) <p align='left'>I am currently a student at Banjarmasin State Polytechnic pursuing a Diploma in Smart City Information Systems.
 
-Prior to this, I worked at Tata Consultancy Services Digital and have experience working in diverse domains of computer science. I always try to learn new technologies to fulfill my curiosity and increase my skill set. My passion and motivation while developing any project is its impact on humankind. I love to work on projects which make a difference in society and will always be open to such oppurtunities!</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1lXHnrnvs3P9OULiAobWYcPf8Ev0AIg56/view?usp=sharing' target=_blank><u>here</u>.</a></p>
+I always try to learn new technologies to fulfill my curiosity and improve my skills. My passion and motivation when developing any project makes me happy to work on projects that bring change to society!</p>
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=rajk3770 alt=rajk3770 /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Irpanai alt=Irpanai /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rajk3770&show_icons=true&include_all_commits=true)](https://github.com/rajk3770/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajk3770&layout=compact)](https://github.com/rajk3770/github-readme-stats)
-<!--
-**Irpanai/Irpanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/Irpanai/Irpanai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Irpanai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Irpanai/Irpanai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irpanai&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
