@@ -8,10 +8,5 @@ I always try to learn new technologies to fulfill my curiosity and improve my sk
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Irpanai alt=Irpanai /> </p>
 
-<a href="https://github.com/Irpanai/Irpanai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Irpanai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Irpanai/Irpanai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irpanai&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
-</a>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Irpanai&show_icons=true&include_all_commits=true)](https://github.com/Irpanai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irpanai&layout=compact)](https://github.com/Irpanai/github-readme-stats)
