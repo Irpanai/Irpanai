@@ -10,7 +10,7 @@ I always try to learn new technologies to fulfill my curiosity and improve my sk
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Irpanai alt=Irpanai /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Irpanai&show_icons=true&include_all_commits=true)](https://github.com/Irpanai/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irpanai&layout=compact)](https://github.com/Irpanai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Irpanai&layout=compact)](https://github.com/Irpanai/github-readme-stats)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rickosong&show_icons=true&theme=radical" align = "center"/>
