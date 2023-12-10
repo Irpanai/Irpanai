@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-muhammadirfnak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:muhammadirfnak@gmail.com)](mailto:muhammadirfnak@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-Irpanai-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Irpanai/)](https://www.github.com/Irpanai/) 
 [![Instagram Badge](https://img.shields.io/badge/-irpanai_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/irpanai_/)](https://www.instagram.com/irpanai_/) 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Irpanai" />
 <p align='left'>I am currently a student at Banjarmasin State Polytechnic pursuing a Diploma in Smart City Information Systems.
 
 I always try to learn new technologies to fulfill my curiosity and improve my skills. My passion and motivation when developing any project makes me happy to work on projects that bring change to society!</p>
