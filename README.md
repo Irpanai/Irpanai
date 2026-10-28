@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Muhammad Irfan Akbar <img src="https://raw.githubusercontent.com/Irpanai/Irpanai/master/wave.gif" width="30px" height="30px" /></h1>
+<h1 align="center">Hi there, I'm Muhammad Irfan Akbar, S.Tr.Kom <img src="https://raw.githubusercontent.com/Irpanai/Irpanai/master/wave.gif" width="30px" height="30px" /></h1>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Irpanai.Irpanai" alt="visitors" />
@@ -19,7 +19,7 @@
 <br>
 
 ### 👨‍💻 About Me
-I am currently a student at **Banjarmasin State Polytechnic** pursuing a Diploma in **Smart City Information Systems**.
+I am a graduate of **Banjarmasin State Polytechnic** with a Bachelor of Applied Science (S.Tr.Kom) in **Smart City Information Systems**.
 
 I always try to learn new technologies to fulfill my curiosity and improve my skills. My passion and motivation when developing any project makes me happy to work on projects that bring change to society!
 
